@@ -17,8 +17,8 @@ This project stabilizes videos of humans walking by locking the subject to a tar
 
 ## Setup
 ```bash
-git clone <repo_url>
-cd <repo>/src
+git clone https://github.com/Kanishk-Mishra/Video-Stabilizer
+cd Video-Stabilizer
 python3 -m venv venv
 # Activate virtual environment:
 # Linux/macOS:
@@ -75,3 +75,10 @@ GPU support improves FPS significantly.
 - Works best for single walking subject; multiple people may reduce accuracy.  
 - Background removal not yet implemented.  
 - YOLOv8 CPU is slow; GPU recommended for real-time use.
+
+---
+
+## 🧾 Author
+**Kanishk Mishra**  
+📍 IITM BS Degree in Data Science and Applications  
+💻 Passionate about AI, ML, and Data-driven systems
